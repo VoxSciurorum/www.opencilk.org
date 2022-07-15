@@ -1,8 +1,13 @@
 ---
 layout: layouts/page.njk
+author: Dorothy Curtis
 stylesheet: language-specification.css
 title: OpenCilk language specification
+tagline: For people who need to know grammatical details about how Cilk is
+  integrated with C.
 date: 2022-07-14T21:37:03.433Z
+tags:
+  - Grammar
 eleventyNavigation:
   key: Language specification
 ---
